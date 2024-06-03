@@ -1,0 +1,46 @@
+{
+    "nav-top": {
+        "location" : "City",
+        "pickup": "Pickup points",
+        "offer": "We will deliver your order for free - in just 1 day",
+        "sell": "Sell on Uzum",
+        "questions": "Question-answer",
+        "order": "My orders"
+    },
+    "nav-mid":{
+        "inp": "Search products and categories",
+        "log": "Login",
+        "fav": "Favorites",
+        "cart": "Basket"
+    },
+    "catalogs": {
+        "plan": "Installment plan",
+        "sale": "Summer Sale",
+        "cooling": "Coolness in the house",
+        "pool": "Swimming pools",
+        "electr": "Electronics",
+        "appli": "Appliances",
+        "cloth": "Cloth",
+        "shoes": "Shoes",
+        "acces": "Accessories",
+        "bac": "Beauty and care",
+        "health": "Health",
+        "h-pro": "House Products",
+        "more": "More"
+    },
+    "products": {
+        "products": "Products"
+    },
+    "footer": {
+        "about": "About us",
+        "pickup": "Pickup points",
+        "vac": "Vacansies",
+        "forusers": "For users",
+        "connect": "Connect with us",
+        "questions": "Question-answer",
+        "forent": "For enterpreneurs",
+        "sell": "Sell on Uzum",
+        "sellerlog": "Sell Login",
+        "social": "Social media"
+    }
+}

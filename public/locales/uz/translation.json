@@ -1,0 +1,46 @@
+{
+    "nav-top": {
+        "location" : "Shahar",
+        "pickup": "Yetkazish punktlari",
+        "offer": "Biz buyurtmangizni tekinga yetkazamiz - 1 kun ichida",
+        "sell": "Uzumda soting",
+        "questions": "Savol-javob",
+        "order": "Buyurtmalarim"
+    },
+    "nav-mid":{
+        "inp": "Mahsulot va turkumlar izlash",
+        "log": "Kirish",
+        "fav": "Saralangan",
+        "cart": "Savat"
+    },
+    "catalogs": {
+        "plan": "Muddatli to'lov",
+        "sale": "Yozgi savdo",
+        "cooling": "Uyga salqinlik",
+        "pool": "Hovuzlar",
+        "electr": "Electronika",
+        "appli": "Maishiy texnika",
+        "cloth": "Kiyim",
+        "shoes": "Poyabzallar",
+        "acces": "Accessories",
+        "bac": "Go'zallik va parvarish",
+        "health": "Sog'lik",
+        "h-pro": "Uy ro'zg'or",
+        "more": "Yana"
+    },
+    "products": {
+        "products": "Mahsulotlar"
+    },
+    "footer": {
+        "about": "Biz haqimizda",
+        "pickup": "Topshirish punktlari",
+        "vac": "Vakansiyalar",
+        "forusers": "Foydalanuvchilarga",
+        "connect": "Biz bilan bog'lanish",
+        "questions": "Savol-javob",
+        "forent": "Tadbirkorlarga",
+        "sell": "Uzumda soting",
+        "sellerlog": "Sotuvchi kabinet",
+        "social": "Ijtimoiy tarmoq"
+    }
+}
