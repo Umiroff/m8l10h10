@@ -36,8 +36,8 @@ function Navbar() {
                     <p>{t('nav-top.questions')}</p>
                     <p>{t('nav-top.order')}</p>
                     <select value={lang} name="" id="" onChange={e => setLang(e.target.value)}>
-                        <option value="uz">Uzbek</option>
                         <option value="en">English</option>
+                        <option value="uz">Uzbek</option>
                     </select>
                 </div>
             </div>
